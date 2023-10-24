@@ -1,0 +1,2 @@
+Hello! This sentence is from test.txt file.
+Thank you for visiting this file.
